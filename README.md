@@ -2,7 +2,7 @@
 This repository contains a few of my completed data projects from the TripleTen Data Science Program.
 
 ## 📚 Table of Contents
-1. [Customer Churn Prediction (Final Project)](./customer_churn_project/solution_report.ipynb)
+1. [Customer Churn Prediction (Final Project)](customer_churn_project/solution_report.ipynb)
 2. [Project 2: TBD](#)
 3. [Project 3: TBD](#)
 4. [Project 4: TBD](#)
@@ -29,4 +29,4 @@ By forecasting churn, the company can target customers with retention offers and
 Python (pandas, sklearn, matplotlib, seaborn, xgboost), Jupyter Notebook
 
 *GitHub Project Link:*  
-👉 [Customer Churn Project Notebook](solution_report.ipynb)
+👉 [Customer Churn Project Notebook](customer_churn_project/solution_report.ipynb)
